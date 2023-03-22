@@ -1,0 +1,15 @@
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\bin\Debug\net7.0\Sistema de Livraria.exe
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\bin\Debug\net7.0\Sistema de Livraria.deps.json
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\bin\Debug\net7.0\Sistema de Livraria.runtimeconfig.json
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\bin\Debug\net7.0\Sistema de Livraria.dll
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\bin\Debug\net7.0\Sistema de Livraria.pdb
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\obj\Debug\net7.0\Sistema de Livraria.csproj.AssemblyReference.cache
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\obj\Debug\net7.0\Sistema de Livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\obj\Debug\net7.0\Sistema de Livraria.AssemblyInfoInputs.cache
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\obj\Debug\net7.0\Sistema de Livraria.AssemblyInfo.cs
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\obj\Debug\net7.0\Sistema de Livraria.csproj.CoreCompileInputs.cache
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\obj\Debug\net7.0\Sistema de Livraria.dll
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\obj\Debug\net7.0\refint\Sistema de Livraria.dll
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\obj\Debug\net7.0\Sistema de Livraria.pdb
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\obj\Debug\net7.0\Sistema de Livraria.genruntimeconfig.cache
+C:\Users\saulo.soares\OneDrive - FitBank Pagamentos Eletrônicos\Área de Trabalho\Sistema de Livraria\obj\Debug\net7.0\ref\Sistema de Livraria.dll
