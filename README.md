@@ -1,7 +1,7 @@
 # 📚 Livraria 
 
 <p>Esse é o projeto de um Sistema de Livraria na qual é utilizado as linguagens de programação mencionadas<br>
-abaixo para fins de estudo da lingugem onde o sistema é excluisvamente Back-End e faz funções basicas referente a uma livraria.<br> </p>
+abaixo para fins de estudo da linguagem onde o sistema é exclusivamente Back-End e faz funções basicas referente a uma livraria.<br> </p>
 
 # 🛠 TECNOLOGIAS
 
