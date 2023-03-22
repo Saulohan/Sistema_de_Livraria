@@ -6,14 +6,15 @@ namespace SistemaLivraria.DAO
     {
          public List<Books> GetBooksByName(String name)
         {
-            string SqlCommand = "GetBooksByName";
-            string param;
-            
-            List<Books> booksList = new List<Books>();
-            
-            //EXEC PROCEDURE
+           
+           using(sqlConnection conn = new sqlConnection("Server=(local);DataBase=Nortwind;Integrated Security=SSPI"))
+           {
+                conn.Open();
 
-            return booksList; 
+                sqlCommand cmd = new sqlCommand("CustOrderHist",conn);
+                cmd.CommandType = CommandType.StoredProcedure;
+           }
+            return cmd; 
         }
     }
 
