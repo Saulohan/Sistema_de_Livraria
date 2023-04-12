@@ -1,15 +1,14 @@
-# 📚 Livraria 
+![logo](./logo.png)
 
-<p>Esse é o projeto de um Sistema de Livraria na qual é utilizado as linguagens de programação mencionadas<br>
-abaixo para fins de estudo da linguagem onde o sistema é exclusivamente Back-End e faz funções basicas referente a uma livraria.<br> </p>
+# 📚 Sistema de Livraria
 
-# 🛠 TECNOLOGIAS
+Esse é o projeto de um Sistema de Livraria na qual é utilizado as linguagens de programação mencionadas
 
-<p>As Seguintes linguagens foram usadas para a construção do projeto:</p>
+abaixo para fins de estudo da linguagem onde o sistema é exclusivamente Back-End e faz funções basicas referente a uma livraria.
 
-* C#
+## 🛠 TECNOLOGIAS
 
-<br>
+As Seguintes linguagens foram usadas para a construção do projeto:
 
----
-# 👨‍💻 Projeto feito por ➡ Saulo Lohan  [LinkedIn](https://www.linkedin.com/in/saulo-lohan-matoso-soares-801b431b3/)   
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
